@@ -1,2 +1,2 @@
 # HotelManagement
-Hotel Management System built using c# and MS SQLServer
+Hotel Registration System built using c# and MS SQLServer
